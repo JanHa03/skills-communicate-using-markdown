@@ -11,3 +11,9 @@
 ###### 6. Titel
 
 Das hier ist normaler Text.
+
+
+### Image
+
+![VFL Borsussia Mönchengladbach Logo](https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Gladbach_gruen.svg/250px-Gladbach_gruen.svg.png)
+
